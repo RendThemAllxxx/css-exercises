@@ -2,11 +2,10 @@
     background-color: rgb(255, 192, 203);
     font-family: Verdana, DejaVu Sans,sans-serif;
 }
-.odd_number_unique {
-    background-color: rgb(255, 192, 203);
-    font-family: Verdana, DejaVu Sans,sans-serif;
-    font-size: 24px;
+.adjust_font_size {
+    font-size: 24px;!important;
 }
+
 #id_1 {
     color: rgb(0, 0, 255);
     font-size: 36px;
